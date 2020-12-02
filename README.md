@@ -1,4 +1,4 @@
 # dev.downing.io
-Repository for code on dev.downing.io, which is a Digital Ocean server for hosting various projects
+Repository for code on AbhiPasula.io.
 
-[You can access dev.downing.io here.](http://dev.downing.io/)
+[You can access AbhiPasula.io here.](https://abhipasula.github.io/research)
