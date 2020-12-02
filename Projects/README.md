@@ -1,15 +1,7 @@
 Populate this directory with the following projects:
 
-DB2 - Databases II Project
+Ocean Modelling
 
-GUI - GUI I Projects
+Data Assimilation
 
-jason94.github.io - Personal Website
-
-MEAN - MEAN Example Project
-
-React-Tutorial - React Example Project
-
-scrabble - GUI I Final Project
-
-Ski-Maps - GUI II Semester Project
+Feature oriented regional ocean modelling system.
